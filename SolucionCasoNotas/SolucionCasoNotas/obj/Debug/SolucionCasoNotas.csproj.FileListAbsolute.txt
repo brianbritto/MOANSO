@@ -1,0 +1,9 @@
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\bin\Debug\SolucionCasoNotas.exe.config
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\obj\Debug\SolucionCasoNotas.csprojResolveAssemblyReference.cache
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\bin\Debug\SolucionCasoNotas.exe
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\bin\Debug\SolucionCasoNotas.pdb
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\obj\Debug\SolucionCasoNotas.exe
+F:\MOANSO\SolucionCasoNotas\SolucionCasoNotas\obj\Debug\SolucionCasoNotas.pdb
+C:\Users\brian\OneDrive\Documentos\MOANSO\SolucionCasoNotas\SolucionCasoNotas\bin\Debug\SolucionCasoNotas.exe.config
+C:\Users\brian\OneDrive\Documentos\MOANSO\SolucionCasoNotas\SolucionCasoNotas\obj\Debug\SolucionCasoNotas.exe
+C:\Users\brian\OneDrive\Documentos\MOANSO\SolucionCasoNotas\SolucionCasoNotas\obj\Debug\SolucionCasoNotas.pdb
